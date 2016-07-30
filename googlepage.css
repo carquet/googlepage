@@ -54,3 +54,15 @@ nav li:nth-child(5){
 	color:#8282b0;
 
 }
+
+#language {
+	position: relative;
+	top: 120px;
+	left: 500px;
+}
+
+#language a {
+	display: inline;
+	margin: 10px;
+	text-decoration: none;
+}
