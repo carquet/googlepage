@@ -66,3 +66,15 @@ nav li:nth-child(5){
 	margin: 10px;
 	text-decoration: none;
 }
+
+/* footer*/
+
+footer {
+	background-color: #efeff5;
+	position: relative;
+}
+
+footer li{
+	display: inline;
+	margin: 20px;
+}
