@@ -17,14 +17,19 @@ nav {
 nav li {
 	display: inline;
 	margin: 10px;
-	font-weight: bold;
+	color: #000000;
+	
+}
+
+nav li a:hover {
+	text-decoration: underline;
 }
 
 
 
 /* iniciar button*/
 
-nav li:nth-child(5){
+#btn {
 	border:1px solid #4285f4;
 	border-radius: 2px;
 	padding:5px 10px;
@@ -34,6 +39,11 @@ nav li:nth-child(5){
 
 #btn a {
 	color: #ffffff;
+	font-size: bold;
+}
+
+#btn a:hover {
+	text-decoration: none;
 }
 
 #btn:active {
