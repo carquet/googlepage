@@ -1,3 +1,6 @@
+a {
+	text-decoration: none;
+}
 /* navigation bar*/
 
 nav {
@@ -64,7 +67,7 @@ nav li:nth-child(5){
 #language a {
 	display: inline;
 	margin: 10px;
-	text-decoration: none;
+	
 }
 
 /* footer*/
