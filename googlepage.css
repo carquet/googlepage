@@ -93,12 +93,19 @@ nav li a:hover, footer li a:hover {
 	position: relative;
 	top: 120px;
 	left: 500px;
+
 }
 
 #language a {
 	display: inline;
 	margin: 10px;
+	color: #1a0dab;
 	
+	
+}
+
+#language a:hover {
+	text-decoration: underline;
 }
 
 /* footer*/
