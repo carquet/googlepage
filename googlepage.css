@@ -77,10 +77,16 @@ nav li a:hover, footer li a:hover {
 	display: inline;
 	margin: 20px;
 	padding: 10px;
-	background-color: #efeff5;
+	background-color: #f2f2f2;
 	border-radius: 2px;
-	color:#8282b0;
+	color:#757575;
+	font-weight: bold;
 
+}
+
+#lucky li:hover {
+	border: 1px solid #d1d1e0;
+	color: #000000;
 }
 
 #language {
