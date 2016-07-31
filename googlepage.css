@@ -57,19 +57,21 @@ nav li a:hover, footer li a:hover {
 	left:500px;
 }
 
-#search {
-	border: 1px solid #d1d1e0;
-	height: 40px;
-	width: 550px;
+
+.search_field {
+	height: 39px;
+	width: 549px;
 	position: relative;
 	top:100px;
 	left: 450px;
 }
 
-#search img {
-	float: right;
-	margin-top:5px;
+#mike {
+	position: absolute;
+	top: 320px;
+	left: 980px;
 }
+
 
 #lucky {
 	position: relative;
