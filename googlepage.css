@@ -71,10 +71,21 @@ nav li:nth-child(5){
 
 footer {
 	background-color: #efeff5;
-	position: relative;
+	position: absolute;
+	height: 50px;
+	width: 100%;
+	bottom: 0;
 }
 
 footer li{
 	display: inline;
 	margin: 20px;
+}
+
+#left {
+	float: left;
+}
+
+#right {
+	float: right;
 }
