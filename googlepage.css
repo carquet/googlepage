@@ -66,6 +66,11 @@ nav li a:hover, footer li a:hover {
 	left: 450px;
 }
 
+#search img {
+	float: right;
+	margin-top:5px;
+}
+
 #lucky {
 	position: relative;
 	top: 100px;
@@ -92,7 +97,7 @@ nav li a:hover, footer li a:hover {
 #language {
 	position: relative;
 	top: 120px;
-	left: 500px;
+	left: 550px;
 
 }
 
