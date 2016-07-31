@@ -21,7 +21,7 @@ nav li {
 	
 }
 
-nav li a:hover {
+nav li a:hover, footer li a:hover {
 	text-decoration: underline;
 }
 
@@ -107,7 +107,12 @@ footer {
 
 footer li{
 	display: inline;
+	color: #666;
 	margin: 20px;
+}
+
+footer a:active {
+	color: #dd4b39;
 }
 
 #left {
